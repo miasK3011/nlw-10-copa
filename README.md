@@ -25,9 +25,12 @@
 - HTML e CSS
 - JavaScript
 - Git e Github
+- Figma
 
 ## 💻 Projeto
 Calendário da copa que mostra datas e horários dos jogos.
+
+O projeto pode ser visualizado através [desse link](https://miask3011.github.io/nlw-10-copa/)
 
 ## 🔖 Layout
 É possível acessar o layout através [desse link](https://www.figma.com/file/3vJag61Mwp00SpzFtf8pgc/Calend%C3%A1rio-de-Jogos-(Community))
