@@ -168,3 +168,8 @@ header {
     border-bottom: #047c3f solid 2px;
     border-radius: 6px;
 }
+
+body {
+  opacity: 0;
+  animation: appear 0.8s forwards;
+}
